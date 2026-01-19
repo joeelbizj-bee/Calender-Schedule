@@ -1,0 +1,5 @@
+{
+  "name": "Gemini PA Calendar",
+  "description": "An intelligent personal assistant that converts voice transcripts into organized, visual calendar events using Gemini 2.5.",
+  "requestFramePermissions": []
+}
